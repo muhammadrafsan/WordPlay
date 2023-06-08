@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    background: lightgray;
+  }
+  .nav-link {
+    font-size: 18px;
+    color: lightgray;
+}
+div ul{
+  width: 15%;
+  margin-left: 85%;
+}
+nav img{
+  margin-left: 20px;
+}
+.nav-link:hover{
+  color: #5CC97E;
+}
+  .navbar a img{
+    margin-right: 10px;
+    opacity: 8;
+  }
+.content{
+    margin-top: 60px;
+}
+form{
+    width: 60%;
+    margin: auto;
+    display: flex;
+}
+input[type=text]{
+    border: 0.5px solid #4CA795;
+}
+label{
+    margin-bottom: 8px;
+}
+.box{
+    width: 78%;
+}
+form button{
+    margin-left: 1%;
+    width: 21%;
+    height: 50%;
+    margin-top: 4%;
+}
+.wordmeaning{
+    width: 70%;
+    margin: auto;
+    border: 1px solid #4CA795;
+    border-radius: 1;
+    padding: 20px 40px;
+    margin-top: 30px;
+  }
+  h5{
+    text-align: center;
+    color: #246b5c;
+  }
+  .btn-getword{
+    background: #5CC97E;
+    font-size: 18px;
+    font-weight: 600;
+  }
+  .btn-getword:hover{
+    background: #4CA795;
+    font-size: 18px;
+    font-weight: 600;
+    transition: .3s;
+    color: white;
+  }
