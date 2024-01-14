@@ -1,5 +1,5 @@
 # WordPlay
-This is an web application which provides users with random words along with their meanings, and users are required to make a sentence containing that word.
+This is an web application built using django framework, which provides users with random words along with their meanings, and users are required to make a sentence containing that word.
 
 # API Used
 1. MIT word list: "https://www.mit.edu/~ecprice/wordlist.10000"
